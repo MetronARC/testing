@@ -1,0 +1,9 @@
+.main__header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+}
+
+.main__body .table.dataTable {
+  padding-top: 0.5rem;
+}
